@@ -1,4 +1,4 @@
-# Aprimore seu aprendizado mesmo enquanto trabalha
+# Aprimorando seu aprendizado mesmo enquanto trabalha 🧠
 
 ![Cachorro no computador com a legenda "I have no idea what I'm doing"](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oethu8taksyea6j1w1yl.png)
 
