@@ -1,4 +1,9 @@
-# Enhancing your learning even while working
+---
+title: Enhancing your learning even while working
+date: 2023-10-07
+excerpt: I talk about how to keep learning while working, stepping out of the comfort zone, exploring new tasks, and turning daily challenges into growth opportunities.
+tags: [beginners, learning, programming, junior, developer]
+---
 
 ![Dog on the computer with the title "I have no idea what I'm doing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oethu8taksyea6j1w1yl.png)
 
