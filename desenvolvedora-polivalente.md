@@ -1,7 +1,7 @@
 ---
 title: "Desenvolvedora Polivalente: meu passo a passo pessoal para uma curva de aprendizado exponencial em qualquer stack tecnológica"
 date: 2025-11-07
-excerpt: Compartilho meu processo pessoal para me adaptar rapidamente a novas stacks tecnológicas, desde fundamentos até estratégias práticas para ser uma desenvolvedora polivalente sem comprometer a qualidade das entregas.
+excerpt: Minhas estratégias para me adaptar rapidamente a novas stacks tecnológicas.
 tags:
   [career, learning, fullstack, adaptability, developer, programming, polyglot]
 ---
