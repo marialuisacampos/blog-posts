@@ -1,7 +1,7 @@
 ---
-title: "Desenvolvedora Polivalente: meu passo a passo pessoal para uma curva de aprendizado exponencial em qualquer stack tecnológica"
+title: "Desenvolvedora Polivalente: minhas estratégias pessoais para uma curva de aprendizado exponencial em qualquer stack tecnológica"
 date: 2025-11-07
-excerpt: Minhas estratégias para me adaptar rapidamente a novas stacks tecnológicas.
+excerpt: Minhas estratégias para me adaptar rapidamente a stacks novas no trabalho.
 tags:
   [career, learning, fullstack, adaptability, developer, programming, polyglot]
 ---
@@ -121,19 +121,18 @@ O código da aplicação é sua melhor documentação:
 
 **Estratégias:**
 
-- **Leia antes de escrever**: Explore o repositório por dias antes do primeiro código
-- **Analise PRs antigos**: Veja como problemas foram resolvidos
-- **Estude code reviews**: Aprenda com feedback dado a outros
-- **Faça debug propositalmente**: Coloque breakpoints e siga o fluxo
-- **Encontre padrões**: Identifique convenções do time
+- **Leia antes de escrever**: Explore o repositório antes do primeiro código!
+- **Analise PRs antigos**: Veja como problemas foram resolvidos. Gosto bastante de pegar alguma task ou algum bug e ver o PR relacionado a ela. 
+- **Estude code reviews**: Aprenda com feedback dado a outros. Seguindo o ponto anterior, quando leio o PR, aproveito para ver também comentários de code review para não repetir os mesmos erros.
+- **Faça debug propositalmente**: Coloque breakpoints e siga o fluxo!
+- **Encontre padrões**: Identifique convenções do time, busque documentações criadas pelos desenvolvedores...
 
 ### ✔️ Aproveitar Ferramentas Modernas (IA e Além)
 
 A IA revolucionou como aprendemos linguagens novas e pode ser sim uma grande amiga nesse momento também:
 
-- Peça exemplos de sintaxe específica
 - Solicite explicações de código complexo
-- Use para traduzir conceitos entre linguagens
+- Use para traduzir conceitos
 - Peça comparações com alguma stack que você domina para melhor entendimento
 
 **Mas ATENÇÃO:**
@@ -151,7 +150,6 @@ Conhecimento sem prática evapora:
 **Estratégias de prática:**
 
 - **Projetos pessoais pequenos**: Clone um app simples
-- **Code katas**: Exercícios focados em sintaxe, caso sinta necessidade
 - **Refatore código antigo**: Aplique novos conhecimentos dos seus estudos
 - **Ensine o que aprendeu**: Escreva um artigo, faça uma talk interna no time
 
