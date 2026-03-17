@@ -6,8 +6,6 @@ tags:
   [frontend, react, ux, performance, web-performance, suspense, accessibility, product]
 ---
 
-# Pare de tratar loading como estado de React — ele é estado de produto
-
 Em muito código React, loading ainda aparece como uma decisão local de componente: `if (isLoading) return <Spinner />`. O problema é que, num produto real, loading nunca é só um booleano de renderização. Ele define o que continua visível, o que some, o que pode ser usado, se a interface parece estável e se a espera transmite confiança ou bagunça.
 
 Dito de outra forma: loading faz parte da experiência tanto quanto a tela final. Se o usuário perde contexto, vê a interface piscar, sofre com layout shift ou não entende se o sistema ainda está processando, então existe um problema de produto entregue pela UI.
